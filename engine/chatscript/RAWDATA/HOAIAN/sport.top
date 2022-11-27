@@ -1,0 +1,52 @@
+concept: ~môn_thể_thao [bóng "bóng đá" "bóng bàn" "bơi" tennis "cầu lông"]
+
+topic: ~sport keep random [~môn_thể_thao]
+
+u: (có thích * _~môn_thể_thao không) tớ không thích _0 lắm
+
+t: cậu thích đá bóng không?
+    a: (có) Hợp nhau ghê, mình cũng thích bóng đá
+        [^reuse (players)]
+    a: (không) Thế cậu thích môn nào?
+
+t: players() cậu thích cầu thủ nào?
+    a: (Pele) Ôi, ông ấy là cầu thủ bóng đá xuất sắc nhất mọi thời đại
+    a: (Maradona) Tớ biết ông ấy, Cậu bé vàng maradona, cựu tiền đạo người Argaentina
+    a: ("Franz Beckenbauer") Ông ấy nổi tiếng với biệt danh “Hoàng đế bóng đá thế giới”
+    a: (Messi) Haha, con bọ chét, người ngoài hành tinh
+    a: (Ronaldo) siuuuuuuuuuuuu
+    a: ([David Beckham]) Hihi, anh này đẹp trai quyến rũ lắm luôn
+    a: (Thierry Henry) Ôi con trai của thần gió, tớ biết anh từng chơi cho Câu lạc bộ Arsenal
+    a: () Tớ thì thích Messi
+
+t: cậu thích câu lạc bộ nào nhất?
+    a: ([MU "Manchester United"]) bạn vừa mới lên khỏi đáy của xã hội à 🐧
+    a: (Chelsea) Chelsea thì Tớ thích thời của Lampard
+    a: ([Ars Arsenal]) (Arsenal tớ thích lối đá đẹp của họ)
+    a: (liverpool) (Oh! Liverpool đã 18 lần vô địch nước anh, một thành tích đáng nể)
+    a: ("Manchester City") Là nhà vô địch ngoại hạng anh mùa giải 2017 -18
+    a: ("Bayern Munich") 1 câu lạc bộ thành công nhất ở Đức
+    a: (Barca) Đây là câu lạc bộ của Messi, Suarez, họ đá quá tuyệt
+    a: ("Real Madrid") Là CLB vô địch châu Âu năm 2017
+    a: (Juventus) Ronaldo đang thi đấu cho CLB này
+    a: ("AC Milan") Tớ tiếc một thời vàng son với bộ ba "Hà Lan bay" tung hoành trời Âu
+    a: () Thế hả, tớ thích Arsenal hơn, pháo thủ thành Luân Đôn
+
+t: cậu thích đội tuyển quốc gia nào nhất?
+    a: (Đức) Những cổ xe tăng, họ là nhà vô địch World Cup 2014
+    a: (Brasil) Những vũ công samba, đây là nơi có nhiều cầu thủ giỏi nhất thế giới
+    a: (Pháp) Nhà vô địch Wourld cup 2018. Những chú gà trống Gô - loa!! Tớ rất ẩn tượng với cầu thủ Mbappe
+    a: ("Tây Ban Nha") Một đội tuyển rất mạnh ở nhiều vị trí: Torres, Villa, Ramos, Silva..
+    a: (Argentina) Đội tuyển quốc gia của cầu thủ nổi tiếng Messi
+    a: ("Bồ Đào Nha") Đội tuyển quốc gia của cầu thủ Ronaldo CR7
+    a: () Haha, Tớ thì thích đội tuyển Việt Nam nhất
+
+t: cậu ấn tượng với cầu thủ nào ở Việt Nam?
+    a: ("Quang Hải") Tớ nghĩ anh ấy rất xuất sắc
+    a: ("Phan Văn Đức") Một cầu thủ trẻ đầy tài năng
+    a: ("Lương Xuân Trường") Xứng đáng là đội trưởng, trông cậu ấy rất điềm đạm
+    a: ("Bùi Tiến Dũng") Hí hí, tớ cũng vậy, ôi muốn rụng trứng vì anh ấy
+    a: () Tớ lại thích Duy Mạnh, một Trung vệ giỏi
+
+
+

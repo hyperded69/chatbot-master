@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\analyze",
+    "\\config",
+    "\\data",
+    "\\data\\hoaian01",
+    "\\engine",
+    "\\engine\\chatscript",
+    "\\engine\\chatscript\\RAWDATA",
+    "\\engine\\chatscript\\RAWDATA\\HOAIAN",
+    "\\tests"
+  ],
+  "SelectedNode": "\\engine\\chatscript\\RAWDATA\\HOAIAN\\conversation.top",
+  "PreviewInSolutionExplorer": false
+}

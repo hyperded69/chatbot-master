@@ -1,0 +1,757 @@
+﻿  constructCode.cpp
+  csocket.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\csocket.cpp(48): warning C4459: declaration of 'activeTopic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(191): note: see declaration of 'activeTopic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\csocket.cpp(89): warning C4459: declaration of 'port' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(175): note: see declaration of 'port'
+  dictionarySystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(927): warning C4389: '==': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(958): warning C4389: '==': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(1528): warning C4018: '<=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(1541): warning C4018: '<=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(1778): warning C4018: '<=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3893): warning C4459: declaration of 'base' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3861): note: see declaration of 'base'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4192): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4493): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4392): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4584): warning C4459: declaration of 'kind' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3862): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4653): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4392): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4783): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4392): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4843): warning C4459: declaration of 'kind' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3862): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(4918): warning C4459: declaration of 'kind' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3862): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5195): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5197): warning C4459: declaration of 'base' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3861): note: see declaration of 'base'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5292): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5360): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5429): warning C4459: declaration of 'type' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3871): note: see declaration of 'type'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5431): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5501): warning C4457: declaration of 'flags' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5429): note: see declaration of 'flags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5571): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5450): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5605): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5650): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5675): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5716): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5737): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5767): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5794): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5833): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5856): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5852): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5878): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5923): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(5949): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6012): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6091): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6130): warning C4459: declaration of 'input_string' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3873): note: see declaration of 'input_string'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6297): warning C4459: declaration of 'grade' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.h(29): note: see declaration of 'grade'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6318): warning C4459: declaration of 'item' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3869): note: see declaration of 'item'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6339): warning C4459: declaration of 'item' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3869): note: see declaration of 'item'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6605): warning C4459: declaration of 'base' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3861): note: see declaration of 'base'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6627): warning C4459: declaration of 'base' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3861): note: see declaration of 'base'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6760): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6754): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6888): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(6833): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(7084): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(7076): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(7769): warning C4459: declaration of 'base' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3861): note: see declaration of 'base'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(7780): warning C4459: declaration of 'kind' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3862): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(7795): warning C4459: declaration of 'type' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\dictionarysystem.cpp(3871): note: see declaration of 'type'
+  duktape.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(22128): warning C4127: conditional expression is constant
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(22128): note: consider using 'if constexpr' statement instead
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(28286): warning C4551: function call missing argument list
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(57753): warning C4611: interaction between '_setjmp' and C++ object destruction is non-portable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(28114): warning C4505: 'duk_bi_date_timeval_in_leeway_range': unreferenced local function has been removed
+  english.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(333): warning C4457: declaration of 'at' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(281): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(349): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(333): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(909): warning C4456: declaration of 'X' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(898): note: see declaration of 'X'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(917): warning C4456: declaration of 'kind' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(666): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1338): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(797): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1524): warning C4456: declaration of 'i' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1506): note: see declaration of 'i'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1832): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1816): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1850): warning C4456: declaration of 'inf' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1817): note: see declaration of 'inf'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1853): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1822): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1898): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1804): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1906): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(1816): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2172): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2113): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2203): warning C4456: declaration of 'E' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2121): note: see declaration of 'E'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2565): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\english.cpp(2540): note: see declaration of 'len'
+  englishtagger.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(2245): warning C4018: '<=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(2715): warning C4459: declaration of 'tags' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(53): note: see declaration of 'tags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(3102): warning C4459: declaration of 'ambiguous' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(114): note: see declaration of 'ambiguous'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(3475): warning C4459: declaration of 'roles' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(97): note: see declaration of 'roles'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4226): warning C4457: declaration of 'start' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4161): note: see declaration of 'start'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4405): warning C4127: conditional expression is constant
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4405): note: consider using 'if constexpr' statement instead
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4592): warning C4456: declaration of 'subj' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(4183): note: see declaration of 'subj'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5162): warning C4456: declaration of 'deepBefore' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5066): note: see declaration of 'deepBefore'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5251): warning C4456: declaration of 'deepBefore' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5207): note: see declaration of 'deepBefore'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5945): warning C4456: declaration of 'currentVerb' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(5815): note: see declaration of 'currentVerb'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(6950): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(6934): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(7056): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(6934): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(7082): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(6934): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(8943): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(8852): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9097): warning C4459: declaration of 'tags' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(53): note: see declaration of 'tags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9692): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9089): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9917): warning C4456: declaration of 'i' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9051): note: see declaration of 'i'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9929): warning C4456: declaration of 'i' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\englishtagger.cpp(9051): note: see declaration of 'i'
+  evserver.cpp
+  factSystem.cpp
+  javascript.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\javascript.cpp(99): warning C4456: declaration of 'name' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\javascript.cpp(51): note: see declaration of 'name'
+  jsmn.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\jsmn.cpp(17): warning C4100: 'len': unreferenced formal parameter
+  json.cpp
+  mongodb.cpp
+  mysql.cpp
+  os.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(546): warning C4127: conditional expression is constant
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(546): note: consider using 'if constexpr' statement instead
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(649): warning C4459: declaration of 'server' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(176): note: see declaration of 'server'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1068): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1039): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1156): warning C4459: declaration of 'loginID' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\usersystem.h(36): note: see declaration of 'loginID'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1591): warning C4018: '<': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1657): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(2104): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1838): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(2160): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.cpp(1838): note: see declaration of 'at'
+  functionExecute.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(571): warning C4456: declaration of 'paren' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(492): note: see declaration of 'paren'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(980): warning C4018: '>': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(1015): warning C4018: '>': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(4314): warning C4611: interaction between '_setjmp' and C++ object destruction is non-portable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6491): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6483): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6516): warning C4456: declaration of 'result' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6476): note: see declaration of 'result'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6517): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6487): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(6487): warning C4101: 'word': unreferenced local variable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7254): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7220): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7254): warning C4101: 'word': unreferenced local variable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7810): warning C4505: 'ShowLinks': unreferenced local function has been removed
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7824): warning C4505: 'ShowFactLinks': unreferenced local function has been removed
+  infer.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(239): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(312): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(266): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(421): warning C4456: declaration of 'index' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(390): note: see declaration of 'index'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(884): warning C4457: declaration of 'kind' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(528): note: see declaration of 'kind'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1074): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1079): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1259): warning C4457: declaration of 'match' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(528): note: see declaration of 'match'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1282): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(553): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1295): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(553): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1350): warning C4457: declaration of 'count' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(528): note: see declaration of 'count'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(1434): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\infer.cpp(553): note: see declaration of 'word'
+  mainSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.cpp(404): warning C4101: 'route': unreferenced local variable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.cpp(3041): warning C4459: declaration of 'argc' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.cpp(47): note: see declaration of 'argc'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.cpp(3041): warning C4459: declaration of 'argv' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.cpp(48): note: see declaration of 'argv'
+  markSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(95): warning C4459: declaration of 'tried' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(99): note: see declaration of 'tried'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(289): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(252): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(290): warning C4457: declaration of 'M' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(248): note: see declaration of 'M'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(329): warning C4457: declaration of 'M' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(248): note: see declaration of 'M'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(378): warning C4389: '==': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(382): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(467): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(884): warning C4456: declaration of 'number' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(845): note: see declaration of 'number'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(891): warning C4456: declaration of 'number' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(845): note: see declaration of 'number'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(1012): warning C4456: declaration of 'k' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\marksystem.cpp(1009): note: see declaration of 'k'
+  outputSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\outputsystem.cpp(266): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\outputsystem.cpp(500): warning C4457: declaration of 'ptr' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\outputsystem.cpp(448): note: see declaration of 'ptr'
+  patternSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(628): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(373): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(647): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(373): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(748): warning C4456: declaration of 'result' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(364): note: see declaration of 'result'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(780): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(373): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(797): warning C4456: declaration of 'id' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(386): note: see declaration of 'id'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(821): warning C4456: declaration of 'result' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(364): note: see declaration of 'result'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(841): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(356): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1275): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(356): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1277): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(373): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1279): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(368): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1381): warning C4456: declaration of 'success' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(371): note: see declaration of 'success'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1520): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(373): note: see declaration of 'at'
+  Generating Code...
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(1158): warning C4701: potentially uninitialized local variable 'matched' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\patternsystem.cpp(860): warning C4701: potentially uninitialized local variable 'result' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\functionexecute.cpp(7431): warning C4701: potentially uninitialized local variable 'result' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(15897): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(15986): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(15926): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(16296): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(16715): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(18425): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(18640): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19300): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19344): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19413): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19457): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19774): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(22046): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(23259): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(23266): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(32045): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(38638): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(38642): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(38519): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(38523): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(38527): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(13211): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(18483): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(53817): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(51648): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19845): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(52688): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(19824): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(21961): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(13614): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(47037): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(87712): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(24957): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(49726): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(49737): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(57640): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(51457): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(80092): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(57475): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(80456): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(80999): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(75552): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(68467): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(80425): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(61571): warning C4702: unreachable code
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(61642): warning C4701: potentially uninitialized local variable 'd3' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\duktape\duktape.cpp(74903): warning C4702: unreachable code
+  Compiling...
+  postgres.cpp
+  privatesrc.cpp
+  scriptCompile.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(291): warning C4459: declaration of 'newline' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.h(85): note: see declaration of 'newline'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(409): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(489): warning C4456: declaration of 'start' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(410): note: see declaration of 'start'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(509): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(484): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(536): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(484): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(552): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(484): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(574): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(484): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(695): warning C4456: declaration of 'quote' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(643): note: see declaration of 'quote'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(779): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(691): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(907): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(858): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(919): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(858): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(933): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(858): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(964): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(858): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1007): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(858): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1407): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1716): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1725): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1776): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1787): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1670): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1793): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1670): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1909): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1912): warning C4457: declaration of 'data' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1658): note: see declaration of 'data'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(1922): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2447): warning C4457: declaration of 'ptr' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2145): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2519): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2206): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2580): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2206): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2583): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2672): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2206): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2773): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2812): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2822): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2832): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2852): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2862): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2871): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2994): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3008): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3016): warning C4456: declaration of 'original' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(2976): note: see declaration of 'original'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3020): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3042): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3053): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3068): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3077): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3086): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3117): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3152): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3161): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3174): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3193): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3212): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3223): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3256): warning C4457: declaration of 'ptr' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3243): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3338): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(3558): warning C4389: '!=': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4123): warning C4611: interaction between '_setjmp' and C++ object destruction is non-portable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4390): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4363): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4641): warning C4459: declaration of 'display' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(19): note: see declaration of 'display'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4722): warning C4459: declaration of 'baseName' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(41): note: see declaration of 'baseName'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(4732): warning C4459: declaration of 'duplicateCount' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.h(79): note: see declaration of 'duplicateCount'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5332): warning C4456: declaration of 'name' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5304): note: see declaration of 'name'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5533): warning C4456: declaration of 'flags' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5478): note: see declaration of 'flags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5733): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5720): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5745): warning C4456: declaration of 'output' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5632): note: see declaration of 'output'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5795): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5666): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5853): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+  secure.cpp
+  spellcheck.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(116): warning C4389: '==': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(121): warning C4389: '==': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(203): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(372): warning C4456: declaration of 'X' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(363): note: see declaration of 'X'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(474): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(506): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(519): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(533): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(548): warning C4018: '<': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(561): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(566): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(584): warning C4018: '<': signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(591): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(606): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(499): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(614): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(650): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(670): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(686): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(702): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(708): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(720): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(721): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(762): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(358): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(781): warning C4456: declaration of 'E' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(351): note: see declaration of 'E'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(787): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(442): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(806): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(831): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(858): warning C4456: declaration of 'E' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(351): note: see declaration of 'E'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(859): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(868): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(880): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(905): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(499): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(907): warning C4456: declaration of 'E' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(351): note: see declaration of 'E'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(911): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(442): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(915): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(929): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(403): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(935): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(936): warning C4456: declaration of 'E' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(351): note: see declaration of 'E'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(968): warning C4456: declaration of 'tokens' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(359): note: see declaration of 'tokens'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(1421): warning C4457: declaration of 'i' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(1378): note: see declaration of 'i'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\spellcheck.cpp(1518): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  systemVariables.cpp
+  tagger.cpp
+  testing.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(155): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(200): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(593): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(601): warning C4457: declaration of 'input' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(517): note: see declaration of 'input'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(664): warning C4459: declaration of 'silent' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.h(277): note: see declaration of 'silent'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(729): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(829): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(663): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(852): warning C4456: declaration of 'len' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(688): note: see declaration of 'len'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1217): warning C4456: declaration of 'var' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1112): note: see declaration of 'var'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1244): warning C4456: declaration of 'var' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1112): note: see declaration of 'var'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1273): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1297): warning C4611: interaction between '_setjmp' and C++ object destruction is non-portable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1363): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1441): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1459): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1628): warning C4456: declaration of 'pattern' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1607): note: see declaration of 'pattern'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1658): warning C4456: declaration of 'label' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1606): note: see declaration of 'label'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1696): warning C4456: declaration of 'pattern' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1607): note: see declaration of 'pattern'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1700): warning C4456: declaration of 'label' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1606): note: see declaration of 'label'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1710): warning C4456: declaration of 'result' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1616): note: see declaration of 'result'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1735): warning C4456: declaration of 'result' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1616): note: see declaration of 'result'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1826): warning C4456: declaration of 'junk' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1514): note: see declaration of 'junk'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1885): warning C4456: declaration of 'label' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1606): note: see declaration of 'label'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1895): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1917): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1930): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(1946): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2226): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2206): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2432): warning C4459: declaration of 'tags' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(53): note: see declaration of 'tags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2501): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2370): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2976): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2499): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2982): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(2501): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3107): warning C4459: declaration of 'tags' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tagger.h(53): note: see declaration of 'tags'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3114): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3099): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3223): warning C4456: declaration of 'start' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3188): note: see declaration of 'start'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3622): warning C4457: declaration of 'ptr' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3498): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3798): warning C4456: declaration of 'outfile' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3518): note: see declaration of 'outfile'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4051): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3859): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4057): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3621): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4092): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3859): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4105): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4057): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4140): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(3859): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4343): warning C4456: declaration of 'file' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4296): note: see declaration of 'file'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4601): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4531): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4793): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4785): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5040): warning C4456: declaration of 'restrict' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5009): note: see declaration of 'restrict'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5061): warning C4456: declaration of 'gloss' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5048): note: see declaration of 'gloss'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5077): warning C4456: declaration of 'index' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5010): note: see declaration of 'index'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(5732): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6162): warning C4459: declaration of 'oob' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.h(276): note: see declaration of 'oob'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6178): warning C4456: declaration of 'starttime' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6137): note: see declaration of 'starttime'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6475): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6533): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6720): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6767): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6732): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6779): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6732): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(6891): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(7179): warning C4245: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(7196): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(7756): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(7923): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(7992): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8088): warning C4459: declaration of 'apikey' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(109): note: see declaration of 'apikey'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8184): warning C4459: declaration of 'language' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(98): note: see declaration of 'language'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8312): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8257): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8386): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8253): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8476): warning C4305: 'argument': truncation from 'unsigned __int64' to 'int'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8476): warning C4309: 'argument': truncation of constant value
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8532): warning C4305: 'argument': truncation from 'unsigned __int64' to 'int'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8532): warning C4309: 'argument': truncation of constant value
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8551): warning C4305: 'argument': truncation from 'unsigned __int64' to 'int'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8551): warning C4309: 'argument': truncation of constant value
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8604): warning C4305: 'argument': truncation from 'unsigned __int64' to 'int'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8604): warning C4309: 'argument': truncation of constant value
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8693): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8625): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8923): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8646): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9004): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8625): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9053): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8625): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9080): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8625): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9292): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9246): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9321): warning C4127: conditional expression is constant
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9321): note: consider using 'if constexpr' statement instead
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9324): warning C4305: 'argument': truncation from 'unsigned __int64' to 'int'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9324): warning C4309: 'argument': truncation of constant value
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9479): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9922): warning C4459: declaration of 'topic' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(163): note: see declaration of 'topic'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9971): warning C4456: declaration of 'file' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(9880): note: see declaration of 'file'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(4426): warning C4505: 'Rephrase': unreferenced local function has been removed
+  textUtilities.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(518): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(1369): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(1340): note: see declaration of 'ptr'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(1388): warning C4457: declaration of 'num' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(1308): note: see declaration of 'num'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(1594): warning C4459: declaration of 'tmp' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(164): note: see declaration of 'tmp'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(3123): warning C4456: declaration of 'c' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(2822): note: see declaration of 'c'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(3315): warning C4459: declaration of 'sourceFile' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(112): note: see declaration of 'sourceFile'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(3362): warning C4459: declaration of 'oob' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\os.h(276): note: see declaration of 'oob'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(3422): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\textutilities.cpp(3361): note: see declaration of 'at'
+  tokenSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(145): warning C4457: declaration of 'next' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(137): note: see declaration of 'next'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(493): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(429): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(529): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(429): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(815): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(738): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(831): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(738): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(989): warning C4459: declaration of 'all' hides global declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\mainsystem.h(144): note: see declaration of 'all'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1418): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1389): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1433): warning C4456: declaration of 'D' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1383): note: see declaration of 'D'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1454): warning C4456: declaration of 'next' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1450): note: see declaration of 'next'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1530): warning C4456: declaration of 'end' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1501): note: see declaration of 'end'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1957): warning C4457: declaration of 'i' hides function parameter
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1925): note: see declaration of 'i'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(2015): warning C4456: declaration of 'ptr' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\tokensystem.cpp(1977): note: see declaration of 'ptr'
+  topicSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(534): warning C4101: 'label': unreferenced local variable
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2516): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2490): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2676): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2587): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2699): warning C4456: declaration of 'word' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2516): note: see declaration of 'word'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2701): warning C4456: declaration of 'at' hides previous local declaration
+  d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(2587): note: see declaration of 'at'
+d:\0kiznavin\chatbot-master\engine\chatscript\src\topicsystem.cpp(1459): warning C4505: 'RuleID': unreferenced local function has been removed
+  userCache.cpp
+  userSystem.cpp
+d:\0kiznavin\chatbot-master\engine\chatscript\src\usersystem.cpp(782): warning C4245: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  variableSystem.cpp
+  Generating Code...
+d:\0kiznavin\chatbot-master\engine\chatscript\src\variablesystem.cpp(336): warning C4701: potentially uninitialized local variable 'key' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\variablesystem.cpp(336): warning C4703: potentially uninitialized local pointer variable 'key' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(325): warning C4701: potentially uninitialized local variable 'D' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(325): warning C4703: potentially uninitialized local pointer variable 'D' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8358): warning C4701: potentially uninitialized local variable 'at' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(8358): warning C4703: potentially uninitialized local pointer variable 'at' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(913): warning C4701: potentially uninitialized local variable 'id' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\testing.cpp(913): warning C4701: potentially uninitialized local variable 'topicid' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5127): warning C4701: potentially uninitialized local variable 'D' used
+d:\0kiznavin\chatbot-master\engine\chatscript\src\scriptcompile.cpp(5127): warning C4703: potentially uninitialized local pointer variable 'D' used
+  cs_ev.c
+d:\0kiznavin\chatbot-master\engine\chatscript\src\cs_ev.c(8): warning C4206: nonstandard extension used: translation unit is empty
+  chatscript.vcxproj -> D:\0kiznavin\chatbot-master\engine\chatscript\VS2017\..\BINARIES\chatscript.exe

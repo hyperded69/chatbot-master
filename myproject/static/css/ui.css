@@ -1,0 +1,315 @@
+@font-face {
+    font-family: "Astloch Bold";
+    src: url("./static/fonts/Astloch-Bold.ttf");
+}
+
+html, body {
+    margin: 0; height: 100%; overflow: hidden}
+
+.navbar-default .navbar-brand {
+    color: #001a33 !important;
+}
+.navbar-brand {
+    position:absolute;
+    bottom: 24px;
+    left: 103px;
+    
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+
+}
+.form-control {
+    color: #444;
+}
+
+.badge-success {
+    background-color: #5cb85c;
+}
+
+.badge-info {
+    background-color: #3c8dbc;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.text-demo .panel, .list-text-demo .panel {
+    border-top: 3px solid #3c8dbc;
+}
+
+.text-demo .panel-body, .list-text-demo .panel-body {
+    padding: 0px !important;
+    color: #666;
+}
+
+.list-text-demo ul {
+    margin-bottom: 0px !important;
+}
+
+.list-text-demo p {
+    font-style: italic;
+    padding: 5px 15px 0px 15px;
+}
+
+.list-text-demo .list-group-item {
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0px !important;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 5px 10px !important;
+    display: flex;
+    align-items: start;
+}
+
+.list-text-demo .content-li {
+    margin-left: 5px;
+}
+
+.list-text-demo .list-group-item:hover {
+    color: #555;
+    background-color: #e7e7e7;
+}
+.menubar{
+    min-width: 75px;
+    max-width: 75px;
+    height: 100vh;
+    min-height: 570px;
+    background-color: #2e2e2e;
+    display: flex;
+    z-index: 9;
+    border-right: 1px solid #2e2e2e;
+    padding: 0 8px;
+    position: absolute;
+    top: -1px;
+}
+#menu{
+    min-width: 236px;
+    height: 100vh;
+    width: 50vh;
+    position:absolute;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(15,34,58,.12);
+    top: 0vh;
+    left: 74px;
+    background-color: #f1e8e8f8;
+    z-index:2;
+    outline: rgba(0,0,0,0.5) solid 10px;
+    outline-width:319vh;
+    
+    
+}
+#custom{
+    min-width: 236px;
+    height: 100vh;
+    width: 25vh;
+    position:absolute;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(15,34,58,.12);
+    top: 0vh;
+    left: 74px;
+    background-color: #f1e8e8f8;
+    z-index:3;
+    outline: rgba(0,0,0,0.5) solid 10px;
+    outline-width:319vh;
+}
+.funcs{
+    height: 100%;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    width:553px;
+
+}
+
+
+.container {
+    width: 1413px;
+    margin-right:150px;
+    
+    margin-left: auto;
+}
+.navbar {
+        position: relative;
+        min-height: 99px;
+        margin-bottom: 32px;
+        border: 1px solid transparent;
+        border-top-color: transparent;
+        border-top-width: 1px;
+        border-right-color: transparent;
+        border-right-width: 1px;
+        border-bottom-color: transparent;
+        border-bottom-width: 1px;
+        border-left-color: transparent;
+        border-left-width: 1px;
+       
+        left: 75px;
+}
+.navbar-default {
+    background-color: hsla(0,0%,100%,.05);
+    backdrop-filter: blur(7px);
+    z-index:1;
+}
+.aesthetic1{
+  
+
+    position: absolute;
+    height: 60px;
+    right: -1px;
+    top: 40px;
+    width:60px;
+    cursor:pointer;
+    display:inline-block;
+    -webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+    /* change the transition-property to all */
+	-webkit-transition-property: all;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+	transition-property: all;
+    
+
+}
+.aesthetic1:hover{
+    background-color: #5cb85c;
+    box-shadow: 5px 10px rgb(19, 19, 20);
+}
+.aesthetic2:hover{
+    background-color: #5cb85c;
+    box-shadow: 5px 10px rgb(19, 19, 20);
+}
+.aesthetic3:hover{
+    background-color: #3a3280;
+    box-shadow: 5px 10px rgb(19, 19, 20);
+}
+.aesthetic1::before{
+    background-color: #5cb85c;
+    box-shadow: 5px 10px rgb(19, 19, 20);
+}
+.aesthetic1::after{}
+.aesthetic2{
+ 
+   
+    position: absolute;
+    height: 60px;
+    right: -1px;
+    top: 130px;
+    width:60px;
+    cursor:pointer;
+    display:inline-block;
+    -webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+    /* change the transition-property to all */
+	-webkit-transition-property: all;
+	transition-property: all;
+        user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
+}
+.aesthetic3{
+ 
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    position: absolute;
+    height: 60px;
+    right: -1px;
+    cursor:pointer;
+    bottom: 25px;
+    width:60px;
+    display:inline-block;
+    -webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+    /* change the transition-property to all */
+	-webkit-transition-property: all;
+	transition-property: all;
+}
+#bgsel1{
+    position:absolute;
+    height: 70px;
+    width: 100px;
+    border: rgba(197, 204, 198, 0.692);
+    border-style: solid;
+    right: 127px;
+    top: 427px;
+    background-image: url("../ae1.jpg");
+    object-fit: cover;
+    background-size: 100% auto;
+    cursor:pointer;
+    
+}
+.bgsels{
+    position:relative;
+    font-size: 20px;
+    bottom:800px;
+    top:350px;
+    padding: 12%;
+}
+#bgsel1:hover{
+    box-shadow: 5px 10px;
+}
+#bgsel2:hover{
+    box-shadow: 5px 10px;
+}
+#bgsel3:hover{
+    box-shadow: 5px 10px;
+}
+#bgsel4:hover{
+    box-shadow: 5px 10px;
+}
+#bgsel5:hover{
+    box-shadow: 5px 10px;
+}
+#bgsel2{
+    position:absolute;
+    height: 70px;
+    width: 100px;
+    border: rgb(160, 160, 177);
+    border-style: solid;
+    right: 127px;
+    bottom:400px;
+    background-image: url("../ae2.jpg");
+    background-size: 100% auto;
+    cursor:pointer;
+}
+#bgsel3{
+    position:absolute;
+    height: 70px;
+    width: 100px;
+    border: rgba(185, 161, 164, 0.753);
+    border-style: solid;
+    right: 14px;
+    top: 427px;
+    background-image: url("../ae.jpg");
+    background-size: 100% auto;
+    cursor:pointer;
+}
+#bgsel4{
+    position:absolute;
+    height: 70px;
+    width: 100px;
+    border: rgb(174, 211, 195);
+    border-style: solid;
+    right: 14px;
+    bottom:400px;
+    background-image: url("../ae3.jpg");
+    background-size: 100% auto;
+    cursor:pointer;
+}
+#bgsel5{
+    position:absolute;
+    height: 70px;
+    width: 100px;
+    border: rgba(159, 190, 230, 0.5);
+    border-style: solid;
+    right: 127px;
+    bottom:300px;
+    background-image: url("../ae4.jpg");
+    background-size: 100% auto;
+    cursor:pointer;
+}

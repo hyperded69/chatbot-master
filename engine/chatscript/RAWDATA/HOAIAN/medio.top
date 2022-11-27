@@ -1,0 +1,13 @@
+topic: ~therapy keep random 
+
+concept: ~bnhd ["mệt" "nản" "bị bắt nạt"]
+concept: ~bltx [đánh đập (trên lớp) (trên trường)]
+concept: ~tranlot ["trấn lột" "bắt đưa"]
+
+
+u:(~bnhd) 
+    [^reuse (ask_what_up)]
+     
+t: ask_what_up () dạo này cậu sao đấy
+    a:(~bnhd)
+    a:(~bltx)
