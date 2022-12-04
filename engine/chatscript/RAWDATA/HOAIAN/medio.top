@@ -1,13 +1,30 @@
 topic: ~therapy keep random 
 
-concept: ~bnhd ["mệt" "nản" "bị bắt nạt"]
-concept: ~bltx [đánh đập (trên lớp) (trên trường)]
+concept: ~signs [mệt nản "không muốn học" chán] 
+concept: ~bltx [đánh đập (trên lớp) (trên trường) "bị bạo lực" "bị bạo hành" "bắt nạt"]
 concept: ~tranlot ["trấn lột" "bắt đưa"]
+concept: ~ngoaicam [lùn béo mập xấu lùn "da đen" ]
+concept: ~noixau ["nói xấu" chửi "nói sau lưng"]
+concept: ~cyberbully [phốt "nói xấu trên mạng" ]
+concept: ~nicknames ["đặt tên" gọi "chế giễu"]
+concept: ~genderb [gay "bê đê" "xì trây" "lgbt"]
 
 
-u:(~bnhd) 
+u:(~signs) 
     [^reuse (ask_what_up)]
      
 t: ask_what_up () dạo này cậu sao đấy
-    a:(~bnhd)
-    a:(~bltx)
+    a:(~bltx) sao cậu lại bị tụi nó bắt nạt
+        b:(~ngoaicam) 
+            c:()
+        b:(~genderb)
+            c:()
+
+
+    a: (~noixau)
+
+    a:(~nicknames)
+
+    a:(~cyberbully)
+
+    a:(~tranlot)gi
