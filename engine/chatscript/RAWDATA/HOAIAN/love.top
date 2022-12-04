@@ -16,3 +16,8 @@ t: hôm nay trời đẹp, cậu có muốn thuê gấu không?
   a: (có) Tự nhiên tớ thấy đau tim quá, ciu tớ
 
 u: (có * gấu * rồi) Thế cho tớ làm em gái mưa nhá, hay em gái nuôi cũng được hết
+
+u: ([thất tình] [chia tay]) Buồn vậy, cậu ổn không
+  a:(~yes) Cậu làm tớ lo thế :D
+  a:(~no) Thôi đừng buồn nữa, chuyện gì cũng sẽ qua thôi
+
