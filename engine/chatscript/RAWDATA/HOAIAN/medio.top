@@ -1,7 +1,7 @@
-topic: ~therapy keep random 
 
-concept: ~signs [mệt nản "không muốn học" chán] 
-concept: ~bltx [đánh đập (trên lớp) (trên trường) "bị bạo lực" "bị bạo hành" "bắt nạt"]
+
+concept: ~signs [mệt nản buồn "không muốn học" chán] 
+concept: ~bltx ["đánh đập" "bị bạo lực" "bị bạo hành" "bắt nạt"đánh đập]
 concept: ~tranlot ["trấn lột" "bắt đưa"]
 concept: ~ngoaicam [lùn béo mập xấu lùn "da đen" ]
 concept: ~noixau ["nói xấu" chửi "nói sau lưng"]
@@ -9,22 +9,30 @@ concept: ~cyberbully [phốt "nói xấu trên mạng" ]
 concept: ~nicknames ["đặt tên" gọi "chế giễu"]
 concept: ~genderb [gay "bê đê" "xì trây" "lgbt"]
 
+topic: ~therapy keep random (~signs)
 
-u:(~signs) 
+u: (~signs) 
     [^reuse (ask_what_up)]
+    [^reuse (ask_why)]
      
-t: ask_what_up () dạo này cậu sao đấy
-    a:(~bltx) sao cậu lại bị tụi nó bắt nạt
-        b:(~ngoaicam) 
-            c:()
-        b:(~genderb)
-            c:()
+t: ask_what_up () dạo này cậu sao đấy 
+    a:(~bltx) sao cậu lại bị tụi nó bắt nạt ^reuse(ask_why)
+    a:(~nicknames) cái đấy nó có đang quá ảnh hưởng đến cuộc sống của cậu không? ^reuse(namesroute)
+    a:(~tranlot) Ca này nghiêm trọng thế, cậu nên báo với người lớn á
+    a:(~cyberbully) Nghe nghiêm trọng thế, tớ nghĩ cậu nên nói với người lớn á ^reuse(cyberoute)
+    a:(~noixau) Mình biết cảm giác đó như thế nào, vì mình cũng đã bị nói khá nhiều rồi. ^reuse(backtalkroute)
+    a:() dù gì đi nữa thì cố lên cậu ơi!!
 
+t: backtalkroute () 
 
-    a: (~noixau)
+t: cyberoute()
+    a:([tế "phốt lại"]) Nếu cậu nghĩ nó ổn thì làm đi:v
+t: namesroute ()
+    a:(~yes) oki vậy bạn kệ nó ik
+    a:(~no) hmmn vậy thì mình nghĩ cậu nên nói với các thầy cô á
+t: ask_why() 
+        a:(~ngoaicam) kệ tụi nó đi, mấy đứa đấy không chê được cậu nên mới nói thế đấy
+        a:(~genderb) èo vãi giờ vẫn có đứa nói vậy được á?
+        a:() Mình biết bây giờ rất khó khăn với bạn, nhưng cậu hãy cố lên!!!
 
-    a:(~nicknames)
-
-    a:(~cyberbully)
-
-    a:(~tranlot)gi
+#t: ending() để mình tóm tắt lại: cậu bị $$AE, cậu nghĩ trên thang điểm 1 đến 10 thì độ trầm cảm của cậu là bao nhiêu
