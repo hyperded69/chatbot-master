@@ -1,38 +1,47 @@
 
-
-concept: ~signs [mệt nản buồn "không muốn học" chán] 
-concept: ~bltx ["đánh đập" "bị bạo lực" "bị bạo hành" "bắt nạt"đánh đập]
+concept: ~signs  [mệt nản "không muốn học" chán] 
+concept: ~bltx ["đánh đập trên" "bị đánh" "bị bạo lực" "bị bạo hành" "bắt nạt" đánh]
 concept: ~tranlot ["trấn lột" "bắt đưa"]
-concept: ~ngoaicam [lùn béo mập xấu lùn "da đen" ]
-concept: ~noixau ["nói xấu" chửi "nói sau lưng"]
-concept: ~cyberbully [phốt "nói xấu trên mạng" ]
+concept: ~ngoaicam [lùn béo mập xấu lùn "da đen" gầy]
+concept: ~noixau ["nói xấu" "nói sau lưng"]
+concept: ~cyberbully [phốt "nói xấu trên mạng"]
 concept: ~nicknames ["đặt tên" gọi "chế giễu"]
 concept: ~genderb [gay "bê đê" "xì trây" "lgbt"]
-
-topic: ~therapy keep random (~signs)
+concept: ~low [1 2 3 4]
+concept: ~med [5 6 7]
+concept: ~high[8 9 10 11 12 14]
+topic: ~therapy keep repeat (~signs)
 
 u: (~signs) 
-    [^reuse (ask_what_up)]
-    [^reuse (ask_why)]
+    ^reuse (ASK_WHAT_UP)   
+   
      
-t: ask_what_up () dạo này cậu sao đấy 
-    a:(~bltx) sao cậu lại bị tụi nó bắt nạt ^reuse(ask_why)
-    a:(~nicknames) cái đấy nó có đang quá ảnh hưởng đến cuộc sống của cậu không? ^reuse(namesroute)
+t: ASK_WHAT_UP () dạo này cậu sao đấy 
+    a:(~bltx)  ^reuse(WHY_IS_BULLIED) 
+    a:(~nicknames)  ^reuse(NAMESROUTE)
     a:(~tranlot) Ca này nghiêm trọng thế, cậu nên báo với người lớn á
-    a:(~cyberbully) Nghe nghiêm trọng thế, tớ nghĩ cậu nên nói với người lớn á ^reuse(cyberoute)
-    a:(~noixau) Mình biết cảm giác đó như thế nào, vì mình cũng đã bị nói khá nhiều rồi. ^reuse(backtalkroute)
-    a:() dù gì đi nữa thì cố lên cậu ơi!!
+    a:(~cyberbully)  ^reuse(CYBEROUTE)
+    a:(~noixau)  ^reuse(BACKTALKROUTE)
+    b:() dù gì đi nữa thì cố lên cậu ơi!!
 
-t: backtalkroute () 
+t: BACKTALKROUTE ()   Mình biết cảm giác đó như thế nào, vì mình cũng đã bị nói khá nhiều rồi. Bạn bị nói xấu về điều gì?
+    a:(~ngoaicam) Tớ cũng từng như cậu, tớ cũng bị chê về ngoại hình và tớ đã thay đổi để tốt hơn
+    a:(~genderb) Èo đừng bận tâm nữa cứ là chính bản thân cậu đi, tốt là được :v
 
-t: cyberoute()
+
+t: CYBEROUTE()   Nghe nghiêm trọng thế, tớ nghĩ cậu nên nói với người lớn á
     a:([tế "phốt lại"]) Nếu cậu nghĩ nó ổn thì làm đi:v
-t: namesroute ()
+t: NAMESROUTE () cái đấy nó có đang quá ảnh hưởng đến cuộc sống của cậu không?
     a:(~yes) oki vậy bạn kệ nó ik
     a:(~no) hmmn vậy thì mình nghĩ cậu nên nói với các thầy cô á
-t: ask_why() 
-        a:(~ngoaicam) kệ tụi nó đi, mấy đứa đấy không chê được cậu nên mới nói thế đấy
-        a:(~genderb) èo vãi giờ vẫn có đứa nói vậy được á?
-        a:() Mình biết bây giờ rất khó khăn với bạn, nhưng cậu hãy cố lên!!!
+t: WHY_IS_BULLIED () sao cậu lại bị tụi nó bắt nạt  
+    a:(~ngoaicam) kệ tụi nó đi, mấy đứa đấy không chê được cậu nên mới nói thế đấy
+    a:(~genderb) èo vãi giờ vẫn có đứa nói vậy được á?
+    a:() Mình biết bây giờ rất khó khăn với bạn, nhưng cậu hãy cố lên!!!
+  
 
-#t: ending() để mình tóm tắt lại: cậu bị $$AE, cậu nghĩ trên thang điểm 1 đến 10 thì độ trầm cảm của cậu là bao nhiêu
+
+v: RATINGS() Theo thang điểm từ 1 đến 10 thì cậu nghĩ mình bị trầm cảm mức mấy?   
+    a:(~low)hmmn
+    a:(~med)hmmn
+    a:(~high)hmmn
